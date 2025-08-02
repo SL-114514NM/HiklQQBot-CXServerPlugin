@@ -15,6 +15,6 @@
 # 管理员的添加和删除
 命令: /hiklqqbot_admin\
 子命令: Add,Remove,Reload\
-<1>add: 添加管理员,参数为用户的OpenId,用户发命令时后台日志会显示
-<2>remove: 删除管理员,参数为用户的OpenId
-<3>reload: 重载管理员
+<1>add: 添加管理员,参数为用户的OpenId,用户发命令时后台日志会显示\
+<2>remove: 删除管理员,参数为用户的OpenId\
+<3>reload: 重载管理员\
