@@ -18,3 +18,7 @@
 <1>add: 添加管理员,参数为用户的OpenId,用户发命令时后台日志会显示\
 <2>remove: 删除管理员,参数为用户的OpenId\
 <3>reload: 重载管理员\
+# 缺陷
+绑定服务器需要服务器的key和id,所以仅限已经上列表的服务器,也可以使用我另一个项目\
+[A2S版本](https://github.com/SL-114514NM/HiklQQBot-CXServerForA2S)\
+原理相同，但是使用A2S协议
